@@ -1,0 +1,6 @@
+sku,title,brand,price,currency,stock,image_url
+CSA-001,smart wi-fi bulb rgb 10w,genericbrand,19.90,EUR,25,https://example.com/bulb.jpg
+CSA-002,smart plug wi-fi 16a,genericbrand,12.50,EUR,40,https://example.com/plug.jpg
+CSA-003,smart led strip 5m rgb,genericbrand,24.90,EUR,15,https://example.com/strip.jpg
+CSA-004,smart door sensor,genericbrand,9.90,EUR,0,https://example.com/door-sensor.jpg
+CSA-005,smart motion sensor,genericbrand,14.90,EUR,30,https://example.com/motion-sensor.jpg
