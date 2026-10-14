@@ -1,0 +1,29 @@
+# Contributing to CSASHOP Product Catalog Tools
+
+Thanks for your interest in improving this project.
+
+## How to contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Install the dependencies.
+4. Make your changes.
+5. Add or update tests.
+6. Open a pull request.
+
+## Code style
+
+- Write clear, readable Python code.
+- Keep functions small and focused.
+- Add docstrings for public functions.
+- Update the README when adding new features.
+
+## Reporting issues
+
+When opening an issue, include:
+
+- A clear description of the problem
+- Steps to reproduce it
+- Expected and actual behavior
+- Sample input data, without sensitive information
+- Your Python version and operating system
